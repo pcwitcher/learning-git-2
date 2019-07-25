@@ -1,1 +1,16 @@
 /*font-family: 'Lato', sans-serif;*/
+
+/* Global */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.7;
+    font-family: 'Lato', sans-serif;
+}
