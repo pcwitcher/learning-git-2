@@ -13,4 +13,38 @@ body {
     font-size: 18px;
     line-height: 1.7;
     font-family: 'Lato', sans-serif;
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+}
+
+/* rest of styles */
+
+h1 {
+    font-size: 40px;
+}
+
+.artist {
+    font-weight: 300;
+    padding-bottom: 40px;
+}
+
+.text-song {
+    font-weight: 400;
+}
+
+.text-song,
+.clip {
+    margin: 0 auto;
+}
+
+.clip {
+    padding: 50px 0;
+}
+
+iframe {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
