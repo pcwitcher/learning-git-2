@@ -1,0 +1,23 @@
+{
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "2 zadanie z gita",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcwitcher/learning-git-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcwitcher/learning-git-2/issues"
+  },
+  "homepage": "https://github.com/pcwitcher/learning-git-2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
