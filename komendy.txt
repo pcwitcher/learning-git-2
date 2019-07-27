@@ -1,3 +1,3 @@
-autoprefixer-cli
+utoprefixer-cli -o css/style.prefixed.css css/style.css
 
-nu-html-checker
+nu-html-checker index.html

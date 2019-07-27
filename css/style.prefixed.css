@@ -14,6 +14,7 @@ body {
     line-height: 1.7;
     font-family: 'Lato', sans-serif;
     background-color: beige;
+    display: -ms-flexbox;
     display: flex;
     background-image: url(https://i.postimg.cc/PJ6rHFzQ/nuta.png);
     background-size: 100px 100px;
